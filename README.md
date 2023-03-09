@@ -2,4 +2,4 @@
 This is just for demo purposes
 
 ## Subheader
-Test
+This is a subheader
